@@ -11,7 +11,7 @@ Drone Shop é uma landing page moderna criada com Next.js, React-Spring, Styled 
 
 ## Link de Deploy
 
-Você pode conferir a landing page ao vivo [Vercel Deploy](https://drone-shop-six.vercel.app).
+Você pode conferir a landing page ao vivo [Vercel Deploy](https://drone-shop-ten.vercel.app/).
 
 ## Screenshots
 
