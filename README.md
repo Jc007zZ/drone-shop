@@ -23,7 +23,7 @@ Você pode conferir a landing page ao vivo [Vercel Deploy](https://drone-shop-te
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/NicolaazDev/drone-shop.git
+git clone git@github.com:Jc007zZ/drone-shop.git
 ```
 
 ```bash
